@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "旅に出よう",
+  "base_artist": "HOYO-MiX",
+  "createdAt": "2026-02-17T18:45:40.475635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅に出よう",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/01_旅に出よう_ケツメイシ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅に出よう",
+      "artist": "HOYO-MiX, Anthony Lynch, 李敬浩",
+      "has_synced": false,
+      "path": "select/pl_01_旅に出よう_HOYO-MiX,_Anthony_Lynch,_李敬浩.txt"
+    }
+  ]
+}
